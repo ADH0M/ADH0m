@@ -43,22 +43,11 @@ I thrive on continuous learning and love working on real-time, animated, and int
 - Exploring advanced animation and interaction patterns with **Framer Motion**
 
 ---
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" alt="Adham's GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
-
 ## 📫 Connect With Me
 
-- 🔗 [LinkedIn](#)
-- 🌐 [Portfolio](#)
-- 📧 [Email Me](mailto:your.email@example.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/adham-said-/)
+- 🌐 [Portfolio](https://my-portfolio-gamma-pink-79.vercel.app/)
+- 📧 [Email Me](mailto:adhamtorky64@gmail.com)
 
 ---
 
